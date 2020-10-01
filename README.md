@@ -34,7 +34,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👯 I’m looking to collaborate on AWS
 - 🤔 I’m looking for help with cluster workload managers SLURM,PBSPro
 - 📫 How to reach me: [@gaikwad_sm](https://twitter.com/gaikwad_sm)
-- ⚡ Fun fact: I :heart: :food:s
+- ⚡ Fun fact: I :heart: :poultry_leg:s
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
