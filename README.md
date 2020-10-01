@@ -2,19 +2,16 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning AI, ML and Blockchain
-- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 🌱 I’m currently learning AWS, High-performance computing (HPC), Workload Manager, Python Programming
+- 👯 I’m looking to collaborate on AWS
+- 🤔 I’m looking for help with cluster workload managers SLURM,PBSPro
 - 📫 How to reach me: [@gaikwad_sm](https://twitter.com/gaikwad_sm)
 - ⚡ Fun fact: I :heart: :dog:s
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-TypeScript         7 hrs 16 mins   █████████████▒░░░░░░░░░░░   100.77 % 
-JavaScript         3 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.72 % 
 Python             1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-reStructuredText   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-JSON               19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -24,11 +21,7 @@ JSON               19 mins         ▓░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:END -->
 
 
-
-### Hi there 👋
-
-Here are some ideas to get you started:
-
+<!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -38,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+>
