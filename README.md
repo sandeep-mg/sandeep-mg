@@ -1,13 +1,10 @@
 ### Hi there <a href="https://www.gaikwad.xyz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://discord.com/">
-  <img align="left" alt="Sandeep's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://www.linkedin.com/in/gaikwadsm/">
+  <img align="left" alt="Sandeep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/gaikwad_sm">
   <img align="left" alt="Sandeep Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gaikwadsm/">
-  <img align="left" alt="Sandeep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/gaikwadsm">
   <img align="left" alt="Sandeep's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -17,6 +14,9 @@
 </a>
 <a href="https://www.reddit.com/user/gaikwadsm/">
   <img align="left" alt="Sandeep's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://discord.gg/36P6HK8">
+  <img align="left" alt="Sandeep's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://leetcode.com/gaikwadsm/">
   <img align="left" alt="Sandeep's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
