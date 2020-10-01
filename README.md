@@ -1,4 +1,5 @@
 ### Hi there <a href="https://www.gaikwad.xyz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 <a href="https://discord.com/">
   <img align="left" alt="Sandeep's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -44,7 +45,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👯 I’m looking to collaborate on AWS
 - 🤔 I’m looking for help with cluster workload managers SLURM,PBSPro
 - 📫 How to reach me: [@gaikwad_sm](https://twitter.com/gaikwad_sm)
-- ⚡ Fun fact: I :heart: :poultry_leg:s
+- ⚡ Fun fact: I :heart: :poultry_leg:
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
