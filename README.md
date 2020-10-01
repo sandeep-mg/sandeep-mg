@@ -54,11 +54,13 @@ Python             2 hr 40 mins    ███████████████
 ```
 <!--END_SECTION:waka-->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadsm&layout=compact&theme=dark" alt="gaikwadsm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaikwadsm&show_icons=true&theme=dark" alt="gaikwadsm" /></p>
+
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Latest](https://www.gaikwad.xyz/)
 <!-- BLOG-POST-LIST:END -->
-
 
 
 ## I ❤️ Memes
