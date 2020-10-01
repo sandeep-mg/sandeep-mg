@@ -49,7 +49,7 @@ This is the place where I opensource stuff and break things :rofl:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Python             1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Python             2 hr 40 mins    █████████████████████░░   91.13 % 
 ```
 <!--END_SECTION:waka-->
 
