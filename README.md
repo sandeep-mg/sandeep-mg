@@ -38,6 +38,7 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
+- 💼 I work at MathWorks in the Installation and Licensing Team
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AWS, High-performance computing (HPC), Workload Manager, Python Programming
 - 👯 I’m looking to collaborate on AWS
