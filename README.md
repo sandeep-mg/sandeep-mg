@@ -17,7 +17,7 @@ Python             1 hr 40 mins    ███░░░░░░░░░░░░
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Latest](https://https://www.gaikwad.xyz/)
+- [Latest](https://www.gaikwad.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 
