@@ -64,7 +64,7 @@ Python             2 hr 40 mins    ███████████████
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Latest](https://www.gaikwad.xyz/)
+- [Latest](https://www.blog.sandeepgaikwad.com/)
 <!-- BLOG-POST-LIST:END -->
 
 
