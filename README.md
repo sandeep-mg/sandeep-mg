@@ -56,9 +56,9 @@ Python             2 hr 40 mins    ███████████████
 
 📈 My GitHub Stats
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadsm&layout=compact&theme=gotham" alt="gaikwadsm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-mg&layout=compact&theme=gotham" alt="sandeep-mg" /></p>
 -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaikwadsm&show_icons=true&theme=gotham" alt="gaikwadsm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep-mg&show_icons=true&theme=gotham" alt="sandeep-mg" /></p>
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
