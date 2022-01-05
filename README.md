@@ -40,9 +40,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 💼 I work at MathWorks India
-<!--
 - 🔭 I’m currently working on something cool :wink:
--->
 - 🌱 I’m currently learning AWS, High-performance computing (HPC), Workload Manager, Docker Container, Python Programming
 - 👯 I’m looking to collaborate on AWS
 - 🤔 I’m looking for help with cluster workload managers SLURM,PBSPro, Docker container
