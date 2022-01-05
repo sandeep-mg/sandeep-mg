@@ -68,7 +68,9 @@ Python             2 hr 40 mins    ███████████████
 
 ## I ❤️ Memes
 
-<img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
+<p align="center">
+<img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+</p>
 
 <pre>
 “THE ONLY EASY DAY WAS YESTERDAY.” 
