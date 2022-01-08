@@ -47,19 +47,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@gaikwad_sm](https://twitter.com/gaikwad_sm)
 - ⚡ Fun fact: I :heart: :poultry_leg:
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Python             2 hr 40 mins    █████████████████████░░   91.13 % 
-```
-<!--END_SECTION:waka-->
-
-📈 My GitHub Stats
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-mg&layout=compact&theme=gotham" alt="sandeep-mg" /></p>
--->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep-mg&show_icons=true&theme=gotham" alt="sandeep-mg" /></p>
-
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Latest](https://www.sandeepgaikwad.com/blog/)
